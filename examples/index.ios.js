@@ -4,14 +4,15 @@
  */
 'use strict';
 
-var React = require('react-native');
+var React = require('react');
+var ReactNative = require('react-native');
 var Switch = require('react-native-material-switch');
 var {
   AppRegistry,
   StyleSheet,
   Text,
   View,
-} = React;
+} = ReactNative;
 
 var switchExample = React.createClass({
   render: function() {
