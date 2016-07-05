@@ -66,4 +66,4 @@ Then `Cmd+R` to start the React Packager, build and run the project in the simul
 MIT License
 
 ### Questions?
-Feel free to [create an issue](https://github.com/Recr0ns/react-native-material-switch/issues)
+Feel free to [create an issue](https://github.com/asveloper/react-native-material-switch/issues)
